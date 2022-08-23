@@ -1,0 +1,10 @@
+syntax of while loop
+applications
+    counter variables
+    finding the count of digits in a number
+    printing 1 to n with/without conditions
+    finding the summation of all digits
+
+
+input = 561
+output = 12 (5+6+1)
